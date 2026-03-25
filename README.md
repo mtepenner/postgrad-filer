@@ -1,4 +1,4 @@
-# Postgrad Filer: LLM File Analyzer (`analyze_file.py`)
+# Filer: LLM File Analyzer (`analyze_file.py`)
 
 ## Overview
 The `analyze_file.py` script acts as the brain behind your automated file organization system. Rather than relying on rigid, hard-coded rules based solely on file extensions, this script leverages Generative AI to understand the *context* of your files. By evaluating a combination of the file's original name, its extension, and a safe snippet of its contents (for text-based files), it accurately sorts your downloads into specific directories and suggests clean, web-safe filenames.
